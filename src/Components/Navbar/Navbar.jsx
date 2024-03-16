@@ -3,7 +3,7 @@ import search from '../../assets/search.png'
 
 function Navbar() {
     return (
-        <nav className='flex justify-around items-center pt-8'>
+        <nav className='flex justify-around items-center pt-8 pb-16'>
             <div>
             <h2 className='text-[#150B2B] lexend text-[32px] font-bold'>Recipe Calories</h2>
             </div>
@@ -17,7 +17,7 @@ function Navbar() {
             </div>
             <div className='flex items-center gap-3'>
             <div className='flex items-center relative'>
-                <img className='relative left-11 select-none h-6 w-6' draggable="false" src={search} alt="#" /><input className='py-[10px] pr-6 pl-12 bg-[#150B2B0D] lexend text-base font-normal rounded-[40px]' type="text" placeholder='Search'/>
+                <img className='relative left-11 select-none h-6 w-6' draggable="false" src={search} alt="#" /><input className='py-[10px] pr-6 pl-12 lexend bg-[#150B2B0D] lexend text-base font-normal rounded-[40px]' type="text" placeholder='Search'/>
             </div>
             <img draggable="false" src={profile} alt="#" />
             </div>
