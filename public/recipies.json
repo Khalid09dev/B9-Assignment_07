@@ -1,0 +1,59 @@
+[
+    {
+    "id": 1,
+    "recipe_image": [{}],
+    "recipe_name": "Spaghetti Bolognese",
+    "short_description": "Classic pasta with rich meat sauce",
+    "ingredients": ["Spaghetti pasta","Ground beef","Onion","Garlic","Tomato paste","Canned crushed tomatoes","Olive oil"],
+    "preparing_time": "30 minutes",
+    "calories": "450 kcal"
+    },
+
+    {
+    "id": 2,
+    "recipe_image": "https://example.com/recipe1.jpg",
+    "recipe_name": "Grilled Cheese Sandwich",
+    "short_description": "Crispy bread and melted cheese delight",
+    "ingredients": ["Sliced bread","Cheese slices","Butter or margarine"],
+    "preparing_time": "40 minutes",
+    "calories": "500 kcal"
+    },
+
+    {
+    "id": 3,
+    "recipe_image": "https://example.com/recipe1.jpg",
+    "recipe_name": "Scrambled Eggs",
+    "short_description": "Fluffy eggs cooked to perfection, simple breakfast",
+    "ingredients": ["Eggs","Salt","Pepper","Butter or cooking oil","Milk or cream"],
+    "preparing_time": "50 minutes",
+    "calories": "600 kcal"
+    },
+
+    {
+    "id": 4,
+    "recipe_image": "https://example.com/recipe1.jpg",
+    "recipe_name": "Tomato Soup",
+    "short_description": "Warm, comforting bowl of tomato goodness",
+    "ingredients": [ "Canned tomatoes (diced or crushed)","Onion","Garlic","Chicken or vegetable broth","Butter or olive oil","Salt"],
+    "preparing_time": "60 minutes",
+    "calories": "800 kcal"
+    },
+    {
+    "id": 5,
+    "recipe_image": "https://example.com/recipe1.jpg",
+    "recipe_name": "Roast Chicken",
+    "short_description": "Tender, juicy chicken with crispy skin",
+    "ingredients": [ "Whole chicken","Salt","Black pepper","Garlic powder","Paprika","Olive oil"],
+    "preparing_time": "60 minutes",
+    "calories": "800 kcal"
+    },
+    {
+    "id": 6,
+    "recipe_image": "https://example.com/recipe1.jpg",
+    "recipe_name": "Chocolate Chip Cookies",
+    "short_description": "Soft, chewy cookies filled with chocolate chips",
+    "ingredients": ["All-purpose flour","Baking soda","Salt","Unsalted butter","Granulated sugar","Brown sugar"],
+    "preparing_time": "60 minutes",
+    "calories": "800 kcal"
+    }
+]
